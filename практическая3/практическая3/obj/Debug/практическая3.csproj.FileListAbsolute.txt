@@ -1,0 +1,15 @@
+C:\Users\akory\source\repos\практическая3\практическая3\bin\Debug\практическая3.exe.config
+C:\Users\akory\source\repos\практическая3\практическая3\bin\Debug\практическая3.exe
+C:\Users\akory\source\repos\практическая3\практическая3\bin\Debug\практическая3.pdb
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3.csproj.AssemblyReference.cache
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\MainWindow.g.cs
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\App.g.cs
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3_MarkupCompile.cache
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3_MarkupCompile.lref
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\MainWindow.baml
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3.g.resources
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3.Properties.Resources.resources
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3.csproj.GenerateResource.cache
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3.csproj.CoreCompileInputs.cache
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3.exe
+C:\Users\akory\source\repos\практическая3\практическая3\obj\Debug\практическая3.pdb
