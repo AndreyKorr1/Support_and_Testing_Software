@@ -3,7 +3,7 @@
 # СОЗДАНИЕ АВТОМАТИЗИРОВАННЫХ UNIT-ТЕСТОВ
 
 ## Создание проета банка и создание проекта модульного тестирования
-https://github.com/AndreyKorr1/Support_and_Testing_Software/blob/master/пр6_Bank/Изображения/image-1.png
+![alt text](https://github.com/AndreyKorr1/Support_and_Testing_Software/blob/master/пр6_Bank/Изображения/image-1.png)
 
 #### Создание методов для тестирования метода debit
 ![alt text](image-2.png)
